@@ -89,7 +89,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-myenv/
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -105,4 +105,3 @@ myenv/
 
 # flask session files
 flask_session/
-
