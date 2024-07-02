@@ -5,6 +5,11 @@ load_dotenv()
 
 # Application (client) ID of app registration
 CLIENT_ID = os.getenv("CLIENT_ID")
+
+# TENANT ID of app registration
+TENANT_ID = os.getenv("TENANT_ID")
+
+
 # Application's generated client secret: never check this into source control!
 CLIENT_SECRET = os.getenv("CLIENT_SECRET")
 

@@ -38,3 +38,6 @@ pip install -r requirements.txt
 ```
 flask run --debug --host=localhost --port=5000
 ```
+
+To run in github codespace, remember to add URL in app registration (type:web) with getAToken at the end like below:
+https://special-xylophone-x5wjpprwp939x44-5000.app.github.dev/getAToken
